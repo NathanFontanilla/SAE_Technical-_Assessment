@@ -1,0 +1,164 @@
+.component-1 {
+  padding: 22px 0 0;
+}
+.discover-flow {
+  height: 9.65%;
+  width: 25.66%;
+  font-family: "Pacifico";
+  font-size: 80px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  position: absolute;
+  left: 686px;
+  top: 0;
+}
+.flex-wrapper-one {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://via.placeholder.com/1921x1273");
+  padding: 0 0 567px 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+.flex-wrapper-two {
+  background-color: rgba(255, 255, 255, 1);
+  margin-bottom: 35px;
+  padding: 11px 38px 17px 19px;
+  display: flex;
+  align-items: flex-start;
+}
+.icons8-flower-bouquet-64-1 {
+  width: 3.33%;
+  align-self: stretch;
+  margin-right: 1341px;
+  object-fit: cover;
+}
+.about {
+  max-width: 84px;
+  width: 4.51%;
+  height: 69.49%;
+  font-family: "Overpass Mono";
+  font-size: 27px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  margin-top: 18px;
+  margin-right: 34px;
+}
+.contact {
+  max-width: 117px;
+  width: 6.28%;
+  height: 69.49%;
+  font-family: "Overpass Mono";
+  font-size: 27px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  margin-top: 18px;
+  margin-right: 34px;
+}
+.sign-in {
+  max-width: 117px;
+  width: 6.28%;
+  height: 69.49%;
+  font-family: "Overpass Mono";
+  font-size: 27px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  margin-top: 18px;
+  margin-right: 37px;
+}
+.icons8-search-16-1 {
+  width: 1.99%;
+  height: 62.71%;
+  margin-top: 20px;
+}
+.rectangle-14 {
+  width: 2.6%;
+  height: 0.57%;
+  background-color: rgba(0, 0, 0, 1);
+  margin-bottom: 6px;
+  margin-left: 1838px;
+  border-radius: 5px;
+}
+.rectangle-16 {
+  width: 2.6%;
+  height: 0.57%;
+  background-color: rgba(0, 0, 0, 1);
+  margin-bottom: 445px;
+  margin-left: 1838px;
+  border-radius: 5px;
+}
+.relative-wrapper-one {
+  width: 57.24%;
+  height: 16.29%;
+  margin-left: 457px;
+  position: relative;
+}
+.vector-3 {
+  width: 26.48%;
+  height: 50.43%;
+  position: absolute;
+  left: 381px;
+  bottom: -55px;
+}
+.vector-2 {
+  width: 26.48%;
+  height: 50.43%;
+  position: absolute;
+  left: 387px;
+  bottom: -58px;
+}
+.discover-now {
+  height: 52.17%;
+  width: 27.75%;
+  font-family: "Pacifico";
+  font-size: 44px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  display: flex;
+  position: absolute;
+  left: 392px;
+  bottom: -48px;
+}
+.discover-now-two {
+  height: 60%;
+  width: 29.48%;
+  font-family: "Pacifico";
+  font-size: 44px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(224, 192, 75, 1);
+  display: flex;
+  position: absolute;
+  right: 380px;
+  bottom: -59px;
+}
+.tommorow-belongs-to-you {
+  width: 100%;
+  height: 100%;
+  font-family: "Racing Sans One";
+  font-size: 91px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(0, 0, 0, 1);
+  position: relative;
+}
+.tommorow-belongs-to-you-two {
+  width: 100%;
+  height: 100%;
+  font-family: "Racing Sans One";
+  font-size: 91px;
+  font-weight: 400;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  right: -10px;
+  top: 0;
+}
