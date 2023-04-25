@@ -1,0 +1,176 @@
+.links {
+  padding: 32px 48px 64px;
+  display: flex;
+  align-items: flex-start;
+  width: 1344px;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 300px;
+}
+.column:not(:last-of-type) {
+  margin-right: 32px;
+}
+.about-pwc {
+  width: 300px;
+  font-family: "Montserrat";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  flex: 1;
+  margin-bottom: 24px;
+}
+.base-navigation {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+}
+.frame-155 {
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+}
+.about-us {
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  margin-right: 8px;
+}
+.union-two {
+  width: 11px;
+  height: 11px;
+}
+.latest-news {
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+}
+.press-coverage {
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+}
+.press-coverage:not(:last-of-type) {
+  margin-bottom: 8px;
+}
+.filipino-voter-empowerment-project-fvep {
+  max-width: 211px;
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 8px;
+}
+.column-two {
+  margin-right: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 300px;
+  height: 190px;
+}
+.shop-learn {
+  margin-bottom: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex: 1;
+  align-self: stretch;
+}
+.text {
+  font-family: "Montserrat";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+}
+.shop-and-learn-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 288px;
+}
+.connect {
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 288px;
+}
+.connect-with-us {
+  width: 288px;
+  font-family: "Montserrat";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  flex: 1;
+  margin-bottom: 24px;
+}
+.social-icons {
+  display: flex;
+  align-items: flex-start;
+  width: 224px;
+}
+.facebook {
+  margin-right: 16px;
+  width: 32px;
+  height: 32px;
+}
+.instagram {
+  margin-right: 16px;
+  width: 28px;
+}
+.youtube {
+  border-radius: 100px;
+  padding: 7px 3.2px 7px 3.16px;
+  display: flex;
+  align-items: center;
+  width: 25.64px;
+  height: 18px;
+}
+.instagram-two {
+  flex: 1;
+  align-self: stretch;
+  object-fit: cover;
+}
+.divider-line {
+  height: 1px;
+  background-color: rgba(197, 197, 197, 1);
+  margin-bottom: 48px;
+  align-self: stretch;
+}
+.component-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.workers-first-ca {
+  font-family: "Nunito";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 24px;
+}
+.the-must-have-app-for-workers-during-cov {
+  max-width: 289px;
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 24px;
+}
